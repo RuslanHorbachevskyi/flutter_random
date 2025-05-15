@@ -1,7 +1,7 @@
 name: flutter_ruslan_random
 description: "Generate random number natively 📱"
 version: 0.0.1
-homepage:
+homepage: https://github.com/RuslanHorbachevskyi/flutter_random
 
 environment:
   sdk: ^3.7.2
